@@ -1,0 +1,6 @@
+framework module Pods_Insta_Photo_Feed {
+  umbrella header "Pods-Insta Photo Feed-umbrella.h"
+
+  export *
+  module * { export * }
+}
